@@ -1,6 +1,9 @@
 
 # celibrity
 
+
+<img src="https://user-images.githubusercontent.com/69257201/164979104-88e5fb74-189c-48fa-b807-488a34638fe7.png" width="300px" height="500px">
+
 세계에서 영향력있는 유명인 50인을 크롤롤링해서 좋아요수로 순위를 매기는 프로그램입니다.
 
  본 프로젝트는 공부를 목적으로 만든 프로그램입니다.
