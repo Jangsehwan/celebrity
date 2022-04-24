@@ -1,5 +1,5 @@
 
-# celibrity
+# celebrity
 
 
 <img src="https://user-images.githubusercontent.com/69257201/164979104-88e5fb74-189c-48fa-b807-488a34638fe7.png" width="300px" height="500px">
